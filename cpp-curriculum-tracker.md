@@ -44,9 +44,9 @@ purpose — the real instructions live in the curriculum file.
 
 ## Module 2 — RAII, destruction & exception safety
 - [ ] Watch the videos
-- [ ] Read: *Tour of C++* Ch. 5 + Ch. 4
-- [ ] Do 1 — `ScopedFile` that closes even when an exception is thrown
-- [ ] Do 2 — `parseInt` two ways (throw vs `std::expected`) + argue the tradeoff
+- [x] Read: *Tour of C++* Ch. 5 + Ch. 4
+- [x] Do 1 — `ScopedFile` that closes even when an exception is thrown
+- [x] Do 2 — `parseInt` two ways (throw vs `std::expected`) + argue the tradeoff
 - [ ] Self-quiz: Module 2
 
 ## Module 3 — Copy, Rule of 0/3/5 & initialization
